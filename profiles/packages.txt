@@ -1,0 +1,15 @@
+sudo
+dpkg
+vim
+bash-completion
+ca-certificates
+openkylin-keyring
+git
+apt
+neofetch
+network-manager
+systemd-timesyncd
+curl
+linux-image-riscv64
+u-boot-menu
+initramfs-tools

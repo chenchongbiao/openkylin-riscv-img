@@ -1,0 +1,5 @@
+deb http://archive.build.openkylin.top/openkylin yangtze main
+deb http://archive.build.openkylin.top/openkylin yangtze-security main
+deb http://archive.build.openkylin.top/openkylin yangtze-updates main
+deb http://archive.build.openkylin.top/openkylin yangtze-proposed main
+deb [trusted=yes] http://10.20.52.132/repo-riscv64/ ccb main
